@@ -1,4 +1,4 @@
-package me.lstewieal.playerrangeevent;
+package me.lstewieal.playerinrange;
 
 /**
  * Shared information for this module

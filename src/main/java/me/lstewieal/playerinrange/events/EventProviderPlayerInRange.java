@@ -1,7 +1,7 @@
-package me.lstewieal.playerrangeevent.events;
+package me.lstewieal.playerinrange.events;
 
-import me.lstewieal.playerrangeevent.ModuleInfo;
-import me.lstewieal.playerrangeevent.events.providers.OnPlayerInRangeProvider;
+import me.lstewieal.playerinrange.ModuleInfo;
+import me.lstewieal.playerinrange.events.providers.OnPlayerInRangeProvider;
 import net.eq2online.macros.scripting.api.*;
 import net.eq2online.macros.scripting.parser.ScriptContext;
 import net.minecraft.client.Minecraft;

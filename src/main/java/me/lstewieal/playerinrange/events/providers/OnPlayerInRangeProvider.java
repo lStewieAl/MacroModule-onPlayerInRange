@@ -1,4 +1,4 @@
-package me.lstewieal.playerrangeevent.events.providers;
+package me.lstewieal.playerinrange.events.providers;
 
 import net.eq2online.macros.scripting.api.IMacroEventVariableProvider;
 

@@ -1,4 +1,4 @@
-package me.lstewieal.playerrangeevent.events;
+package me.lstewieal.playerinrange.events;
 
 import net.eq2online.macros.compatibility.IconTiled;
 import net.eq2online.macros.event.MacroEvent;
